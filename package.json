@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
+
+const express = require("express");
+const cors = require("cors");
+
+const app = express();
+app.use(cors());
+app.use(express.jason());
+
+let musicas = [];
+let idAtual = 1;
+
+app.get("/musicas", (req, res) => {
+  const ordenadas = [...musicas].sort((a, b) => 
+  
+  )
+}
+
+
+
+)
+
+
