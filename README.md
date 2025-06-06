@@ -7,12 +7,15 @@ Este projeto é um ranking interativo de músicas que permite descobrir quais s�
 Como Funciona? 🤔
 O projeto é dividido em duas partes principais que trabalham juntas:
 
-Front-end: É a interface visual com a qual você interage. Nela, as músicas são listadas, você pode votar e acompanhar o ranking em tempo real. 💻
-Back-end (Node.js & JSON): Este é o "cérebro" do projeto, responsável por toda a lógica por trás do ranking. Ele faz o seguinte:
-Armazena as músicas e os votos: Todas as informações são guardadas de forma eficiente em um arquivo JSON. 💾
-Recebe e processa os votos: Quando você clica para votar em uma música, o back-end processa e atualiza a contagem de votos. ✅
-Serve os dados para o Front-end: Ele envia as músicas e o ranking atualizado para que a interface possa exibir tudo em tempo real. 📊
-A escolha de usar um arquivo JSON diretamente no back-end para armazenar os dados é uma maneira leve e eficaz de começar este tipo de projeto com Node.js.
+- Front-end: É a interface visual com a qual você interage. Nela, as músicas são listadas, você pode votar e acompanhar o ranking em tempo real. 💻
+
+- Back-end (Node.js & JSON): Este é o "cérebro" do projeto, responsável por toda a lógica por trás do ranking. Ele faz o seguinte:
+
+- Armazena as músicas e os votos: Todas as informações são guardadas de forma eficiente em um arquivo JSON. 💾
+
+- Recebe e processa os votos: Quando você clica para votar em uma música, o back-end processa e atualiza a contagem de votos. ✅
+
+- Serve os dados para o Front-end: Ele envia as músicas e o ranking atualizado para que a interface possa exibir tudo em tempo real. 📊
 
 Tecnologias Utilizadas 🛠️
 Este projeto foi construído utilizando as seguintes tecnologias:
