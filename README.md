@@ -1,7 +1,7 @@
-🚀 Estudos Backend: Projetos Práticos de Desenvolvimento Web
+# 🚀 Estudos Backend: Projetos Práticos de Desenvolvimento Web
 Bem-vindo(a) ao repositório dos meus estudos em desenvolvimento web Back-end! 📚 Aqui, você encontrará projetos práticos que demonstram o aprendizado e a aplicação de diversas tecnologias de servidor.
 
-🎶 Ranking de Músicas
+# 🎶 Ranking de Músicas
 Este projeto é um ranking interativo de músicas que permite descobrir quais são as faixas mais votadas e populares! A ideia é simples: usuários podem votar em suas músicas favoritas para criar um ranking dinâmico e colaborativo, impulsionado pela comunidade. ✨
 
 Como Funciona? 🤔
@@ -30,7 +30,7 @@ Back-end:
   
 Como este é um projeto inicial de estudo, tenho diversas ideias para futuras melhorias e funcionalidades:
 
-Gerenciamento de Músicas: Adicionar a capacidade de incluir novas músicas e remover existentes do ranking. ➕➖
-Autenticação de Usuários: Implementar um sistema de autenticação para que os usuários possam ter contas e, talvez, registrar seus votos. 🔒
-Armazenamento de Dados: Migrar o armazenamento de dados para um banco de dados mais robusto (como MongoDB ou PostgreSQL), o que seria ideal para projetos maiores e com mais dados. 🗄️
-Interface do Usuário (UI): Melhorar a interface do usuário com mais opções de visualização do ranking, como filtros, ordenação e talvez gráficos. ✨
+- Gerenciamento de Músicas: Adicionar a capacidade de incluir novas músicas e remover existentes do ranking. ➕➖
+- Autenticação de Usuários: Implementar um sistema de autenticação para que os usuários possam ter contas e, talvez, registrar seus votos. 🔒
+- Armazenamento de Dados: Migrar o armazenamento de dados para um banco de dados mais robusto (como MongoDB ou PostgreSQL), o que seria ideal para projetos maiores e com mais dados. 🗄️
+- Interface do Usuário (UI): Melhorar a interface do usuário com mais opções de visualização do ranking, como filtros, ordenação e talvez gráficos. ✨
